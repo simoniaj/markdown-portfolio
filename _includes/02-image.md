@@ -1,1 +1,1 @@
-<img src="https://www.treehugger.com/woods-vs-forest-5182505" alt="These trees are beautiful">
+<img src="https://octodex.github.com/images/yaktocat.png" alt="Image of Yaktocat">
